@@ -188,3 +188,6 @@ a:hover {
 span  {
     margin-right: 15px;
 }
+.lead {
+    text-align: justify;
+}
